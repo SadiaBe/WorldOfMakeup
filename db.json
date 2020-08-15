@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Tatcha The Water Cream",
+      "image": "https://www.sephora.com/productimages/sku/s1932920-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=1166",
+      "likes": 3
+    },
+    {
+      "id": 2,
+      "name": "Bobbi Brown Highlighting Powder Mini",
+      "image": "https://www.sephora.com/productimages/sku/s2101558-main-zoom.jpg?imwidth=1166",
+      "likes": 0
+    }
+  ]
+}
