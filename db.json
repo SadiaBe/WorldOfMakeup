@@ -10,7 +10,13 @@
       "id": 2,
       "name": "Bobbi Brown Highlighting Powder Mini",
       "image": "https://www.sephora.com/productimages/sku/s2101558-main-zoom.jpg?imwidth=1166",
-      "likes": 0
+      "likes": 2
+    },
+    {
+      "name": "Multicolored Glow Kit",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41j6UejPHHL._AC_SY400_.jpg",
+      "likes": 3,
+      "id": 3
     }
   ]
 }
