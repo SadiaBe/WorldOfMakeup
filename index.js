@@ -96,3 +96,77 @@ function displayProducts(product){
       deleteToy(product, div)
     })
 }
+
+
+
+
+//logic to create a like and dislike button 
+let heart = "<3"
+let hurt = "/"
+let position = 1
+function brokenHeart(){
+  let breakMyHeart = heart.substring(0, position) + hurt + heart.substring(position)
+  return breakMyHeart
+}
+brokenHeart()
+
+
+// let heart = "<3"
+// function useClosure(){
+//   let hurt = "/"
+//   let position = 1
+
+//   function brokenHeart(hurt, position){
+//     let breakMyHeart = heart.substring(0, position) + hurt + heart.substring(position)
+//     return breakMyHeart
+//   }
+//   return brokenHeart()
+// }
+
+// useClosure()
+
+
+
+
+// to be able to display a happy mood on the page depending on the feeling and time 
+function useClosure(){
+  
+  let feeling = "happy"
+  if(feeling === "happy"){
+    
+    return ":)"
+  }
+  else {
+    return ":("
+  }
+}
+useClosure()
+
+
+
+function x(){
+  let feeling = "happy"
+  let today = "Monday"
+  let tomorrow = "Tuesday"
+  function y(){
+    if(feeling === "happy" && today === "Friday"){
+      
+      return ":)"
+    }
+    else {
+      return ":("
+    }
+}
+return console.dir(y)
+}
+x()
+
+
+
+
+
+
+
+
+
+
